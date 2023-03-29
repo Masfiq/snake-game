@@ -9,3 +9,5 @@ file.
 'audio' folder have the mp3 files for the sound I used in the game
 I linked the css and js file with the index.html file. Opening this file with the browser will start the game.
 the main code is in the js file and the css files arejust for styling
+
+https://masfiq.github.io/snake-game/
